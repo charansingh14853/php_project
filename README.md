@@ -45,38 +45,7 @@ The sum total of all "Total Value" numbers is displayed in the last row.
 Data Management:
 
 All data persists in the data.json file.
-Project Setup
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-Run the project using a local PHP server:
-
-bash
-Copy code
-php -S localhost:8000
-Open the application in your browser:
-
-bash
-Copy code
-http://localhost:8000/index.php
-Future Enhancements
-Edit Functionality: Add the ability to edit existing product details.
-Delete Functionality: Allow users to remove products.
-Database Integration: Replace JSON storage with a database like MySQL for more scalability.
-Export Data: Enable downloading the data in CSV or Excel format.
-Repository Structure
-graphql
-Copy code
-php-skills-test/
-├── index.php          # Main frontend file with form and table
-├── submit.php         # Handles form submissions and saves data
-├── fetch.php          # Fetches data from data.json
-├── data.json          # JSON file for storing submitted data
-├── styles.css         # Custom styles
-├── script.js          # JavaScript for AJAX and DOM manipulation
 Demo Screenshot
 
 
