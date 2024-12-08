@@ -49,9 +49,10 @@ All data persists in the data.json file.
 Demo Screenshot
 
 
-![Screenshot 2024-12-08 150026](https://github.com/user-attachments/assets/49ec6ecf-a0a3-4dcf-b1c3-69b4046c6be0)
 
 
+
+![Screenshot 2024-12-08 150606](https://github.com/user-attachments/assets/9dab3510-f702-411c-aded-5d0cb1694c3f)
 
 
 
